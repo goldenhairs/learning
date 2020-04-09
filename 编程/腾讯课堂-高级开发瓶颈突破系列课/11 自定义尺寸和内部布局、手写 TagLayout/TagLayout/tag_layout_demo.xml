@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.henry.newdemo.customer.view.TagLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <com.henry.newdemo.customer.view.RandomTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="北京市" />
+
+            <com.henry.newdemo.customer.view.RandomTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="东莞市	" />
+
+            <com.henry.newdemo.customer.view.RandomTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="深圳市" />
+
+            <com.henry.newdemo.customer.view.RandomTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="昆明市" />
+
+            <com.henry.newdemo.customer.view.RandomTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="南昌市" />
+
+            <com.henry.newdemo.customer.view.RandomTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="乌鲁木齐市" />
+
+            <com.henry.newdemo.customer.view.RandomTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="保定市" />
+
+            <com.henry.newdemo.customer.view.RandomTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="上海市" />
+
+            <com.henry.newdemo.customer.view.RandomTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="连云港市" />
+
+            <com.henry.newdemo.customer.view.RandomTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="宿迁市" />
+
+            <com.henry.newdemo.customer.view.RandomTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="呼和浩特市" />
+
+            <com.henry.newdemo.customer.view.RandomTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="徐州市" />
+
+            <com.henry.newdemo.customer.view.RandomTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="苏州市" />
+
+            <com.henry.newdemo.customer.view.RandomTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="重庆市" />
+
+            <com.henry.newdemo.customer.view.RandomTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="武汉市" />
+
+            <com.henry.newdemo.customer.view.RandomTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="天津市" />
+
+            <com.henry.newdemo.customer.view.RandomTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="沈阳市" />
+
+            <com.henry.newdemo.customer.view.RandomTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="青岛市" />
+        </com.henry.newdemo.customer.view.TagLayout>
+    </ScrollView>
+</FrameLayout>
